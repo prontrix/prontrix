@@ -11,5 +11,5 @@
   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </h3>
 <h3 align="center">
-  ![ml](https://user-images.githubusercontent.com/60534525/223356408-c46f30b0-2da8-410d-aa63-e2567a478037.jpg)
+  <img src = "https://user-images.githubusercontent.com/60534525/223356408-c46f30b0-2da8-410d-aa63-e2567a478037.jpg" />
 </h3>
