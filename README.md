@@ -11,5 +11,5 @@
   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </h3>
 <h3 align="center">
-  <div><img src = "https://i.ytimg.com/vi/R2Pi-LP4WrM/hqdefault.jpg" /></div>
+  <div style = "height:200px; overflow:hidden"><img src = "https://i.ytimg.com/vi/R2Pi-LP4WrM/hqdefault.jpg" /></div>
 </h3>
